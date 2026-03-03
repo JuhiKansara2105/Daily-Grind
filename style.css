@@ -1,1 +1,8 @@
 body { background: #f0ebe3; }
+
+h1 {
+  color: #3c2f2f;
+  text-align: center;
+}
+nav { background: #8d6e63; }
+button { background: #6d4c41; }
